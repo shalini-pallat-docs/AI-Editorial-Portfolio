@@ -48,9 +48,9 @@ Well-structured commit messages function as structured metadata for documentatio
 
 For example:
 
-`feat: align Module 3 assessment with revised learning objectives`
-`fix: correct API parameter definition for v2.4 release`
-`docs: apply hallucination audit corrections to troubleshooting guide`
+- `feat: align Module 3 assessment with revised learning objectives`
+- `fix: correct API parameter definition for v2.4 release`
+- `docs: apply hallucination audit corrections to troubleshooting guide`
 
 This level of clarity transforms version history into an organizational knowledge asset.
 ## 5. AI Integration and the Need for Version Discipline
