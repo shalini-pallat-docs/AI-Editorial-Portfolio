@@ -8,12 +8,12 @@ In AI-augmented documentation systems, version control becomes even more critica
 ## 2. Branches as Controlled Editorial Environments
 A `branch` represents an isolated editorial workspace where changes can be introduced, evaluated, and validated without affecting the stable or published version of documentation.
 ### Curriculum Context
-A branch might represent:
+A `branch` might represent:
 - A module undergoing learning objective realignment
 - Bloom’s taxonomy level revision
 - Assessment redesign cycle
 - AI-assisted content enhancement before instructional designer review
-A branch enables:
+A `branch` enables:
 - Iterative refinement
 - SME validation cycles
 - Controlled experimentation with AI-generated drafts
@@ -30,7 +30,7 @@ Branches allow teams to:
 - Ensure release-aligned publication.
 ## 3. Commits as Audit Records
 A `commit` is not merely a saved change. It is an editorial decision record.
-Each commit should answer the questions:
+Each `branch` should answer the questions:
 - What changed?
 - Why it changed?
 - Who initiated the change?
