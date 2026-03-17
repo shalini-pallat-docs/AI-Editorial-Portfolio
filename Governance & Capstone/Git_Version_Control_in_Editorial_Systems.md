@@ -45,10 +45,13 @@ In regulated or enterprise environments, commit history supports:
 - Documentation traceability
 ## 4. Commit Messages as Microchange Logs
 Well-structured commit messages function as structured metadata for documentation evolution.
+
 For example:
-feat: align Module 3 assessment with revised learning objectives
-fix: correct API parameter definition for v2.4 release
-docs: apply hallucination audit corrections to troubleshooting guide
+
+`feat: align Module 3 assessment with revised learning objectives`
+`fix: correct API parameter definition for v2.4 release`
+`docs: apply hallucination audit corrections to troubleshooting guide`
+
 This level of clarity transforms version history into an organizational knowledge asset.
 ## 5. AI Integration and the Need for Version Discipline
 In AI-assisted editorial systems:
@@ -61,6 +64,7 @@ Version control ensures:
 - Human validation steps are trackable.
 - Risk audits are reviewable.
 - Governance checkpoints are documented.
+
 Without version discipline, AI integration becomes operationally fragile.
 ## 6. Version Control as Editorial Maturity Indicator
 A documentation team that uses structured branching and disciplined commits demonstrates:
